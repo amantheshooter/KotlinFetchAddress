@@ -1,0 +1,19 @@
+<resources>
+    <string name="app_name">KotlinFetchAddress</string>
+    <string name="search_your_address">Search Your Address</string>
+    <string name="enter_location">Enter Location</string>
+    <string name="enter_city_name">Enter City Name</string>
+    <string name="gurgaon">Gurgaon</string>
+
+    <string-array name="Languages">
+        <item>Java</item>
+        <item>Kotlin</item>
+        <item>Swift</item>
+        <item>Python</item>
+        <item>Scala</item>
+        <item>Perl</item>
+        <item>Javascript</item>
+        <item>Jquery</item>
+    </string-array>
+
+</resources>
